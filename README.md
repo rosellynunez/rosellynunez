@@ -1,6 +1,6 @@
 ### Hi, I'm Roselly 👋
 
-👩🏻‍💻 With over 5 years of experience as a UX/UI Designer, I specialize in crafting intuitive and engaging digital experiences. <br>
-Currently, I'm expanding my expertise in web accessibility and front-end development to enhance my ability to create inclusive and seamless user interfaces. <br>
-Passionate about continuous learning and improving digital accessibility for all.
+:coffee: With over 5 years of experience as a UX/UI Designer, I specialize in crafting intuitive and engaging digital experiences. <br>
+👩🏻‍💻 Currently, I'm expanding my expertise in web accessibility and front-end development. <br>
+🌟 If I had to describe myself in 3 words, I'd say: Passionate about continuous learning, versatile and empathetic.
 
