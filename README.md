@@ -5,8 +5,7 @@
 🌟 If I had to describe myself in just a few words, I'd say: Passionate about learning, versatile and empathetic.
 
 ```javascript
-const ROSELLY = {
-  full_name: "Roselly Marisa Nuñez Guerra",
+ROSELLY = {full_name: "Roselly Marisa Nuñez Guerra",
   tech_skills: 
   {
     design: [
@@ -15,9 +14,11 @@ const ROSELLY = {
         "Zeplin",
         "Adobe Creative Suite",
     ],
-    programming_languages: [
+    web_design_languages: [
         "Html", 
         "Css", 
+    ],
+    programming_languages: [
         "Javascript",
     ],
     frameworks_and_libraries: [
@@ -30,15 +31,15 @@ const ROSELLY = {
     ],
   },
   soft_skills: [
-    "Passionate about continous learning",
-    "Adaptable",
-    "Versatile"
-    "Enthusiast",
-    "Persevering",
+        "Passionate about continous learning",
+        "Adaptable",
+        "Versatile"
+        "Enthusiast",
+        "Persevering",
   ],
   aside_topics: { 
-    "I'm an organizer of an improv meetup in Barcelona",
-    let result = text.link("https://www.meetup.com/es-ES/theater-games-in-the-park/");
+        text = "I'm an organizer of an improv meetup in Barcelona!";
+        result = text.link("https://www.meetup.com/es-ES/theater-games-in-the-park/");
   },
 };
 ```
